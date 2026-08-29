@@ -32,6 +32,7 @@ Running small language models (SLMs) on smartphones can yield a 10x reduction in
 As a retired librarian, my passion is transformational democracy. I have run several language models on my smartphone, but have not yet integrated them with agentic frameworks. My reach exceeds my grasp.
 * John Kintree, jkintree@gmail.com
 ### Resources
+* Unstract data extraction pipeline, https://ai.gopubby.com/building-reliable-ai-document-extraction-pipelines-bbd12dfbe392
 * MAGMA agent memory, https://arxiv.org/abs/2601.03236
 * Postgresql GraphRAG, https://github.com/crajah/post-graph-rag
 * Democracy in the Era of Artificial Intelligence, https://arxiv.org/abs/2606.13026
